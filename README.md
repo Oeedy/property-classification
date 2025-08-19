@@ -22,6 +22,3 @@ Due to licensing restrictions, raw datasets are not included in this repository.
 1. Install Python 3.10 or above with the following libraries: pandas, matplotlib, geopandas, seaborn.  
 2. Place the input datasets in the same working directory as the script.  
 3. Run Property Classification Model.py to reproduce results.  
-
-## Citation  
-Osborne, J. (2025). *Designing a Classification Framework for Tokenised UK Freehold Properties: Supporting Fractional Ownership and Enhancing Market Transparency.* MSc Dissertation, University of Greenwich.  
